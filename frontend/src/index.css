@@ -1,0 +1,41 @@
+/* File: src/index.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 5px;
+  padding: 10px;
+  background: linear-gradient(to right, #84a5ad, #8e9eab); /* soft gradient background */
+  color: #111827;
+  display: flex;
+  justify-content: center;
+  
+  min-height: 100vh;
+  padding: 5px;
+  
+}
+
+#root {
+  display: flex;
+  width: 90%;
+  max-width: 1200px;
+  margin: 2rem auto;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+h2 {
+  color: #154486;
+}
+
+h3 {
+  color:#ea5b18;
+  cursor: pointer ;
+  }
+
+ul {
+  list-style-type: none;
+  padding: 5;
+}

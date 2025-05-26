@@ -1,0 +1,23 @@
+[
+  {
+    "conversation_id": 1,
+    "messages": [
+      {"sender": "agent", "text": "Hi Alex! Welcome to VoiceUp Support. How can I help you?"},
+      {"sender": "customer", "text": "My internet keeps disconnecting and it's really frustrating!"},
+      {"sender": "agent", "text": "I'm so sorry for the inconvenience, Alex. Let me check this for you."},
+      {"sender": "customer", "text": "Thanks, I hope it gets fixed soon."},
+      {"sender": "agent", "text": "I have reset your connection. Could you please check now?"},
+      {"sender": "customer", "text": "Yes, it's working now. Thank you!"}
+    ]
+  },
+  {
+    "conversation_id": 2,
+    "messages": [
+      {"sender": "agent", "text": "Hello, how can I assist you today?"},
+      {"sender": "customer", "text": "My router is showing a red light and no internet."},
+      {"sender": "agent", "text": "No worries, our routers usually fix themselves in a few minutes."},
+      {"sender": "customer", "text": "Are you sure? This has been happening for an hour."},
+      {"sender": "agent", "text": "Guaranteed it will be fine soon!"}
+    ]
+  }
+]
