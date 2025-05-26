@@ -19,5 +19,86 @@
       {"sender": "customer", "text": "Are you sure? This has been happening for an hour."},
       {"sender": "agent", "text": "Guaranteed it will be fine soon!"}
     ]
+  },
+  {
+    "conversation_id": 3,
+    "messages": [
+      {"sender": "agent", "text": "Hi there! Need help with your internet connection?"},
+      {"sender": "customer", "text": "Yes, the speed is very slow today."},
+      {"sender": "agent", "text": "I apologize for the inconvenience. Let me run a diagnostic on your line."},
+      {"sender": "agent", "text": "There seems to be congestion in your area. We're working to fix it."},
+      {"sender": "customer", "text": "Okay, thanks for the update."}
+    ]
+  },
+  {
+    "conversation_id": 4,
+    "messages": [
+      {"sender": "agent", "text": "Welcome to VoiceUp, how may I help you?"},
+      {"sender": "customer", "text": "I want to cancel my subscription."},
+      {"sender": "agent", "text": "I'm sorry to hear that. May I ask why you're cancelling?"},
+      {"sender": "customer", "text": "Too many connection issues lately."},
+      {"sender": "agent", "text": "We understand. We'll process your cancellation request right away."}
+    ]
+  },
+  {
+    "conversation_id": 5,
+    "messages": [
+      {"sender": "agent", "text": "Hi! What can I do for you today?"},
+      {"sender": "customer", "text": "I paid my bill but the internet is still not working."},
+      {"sender": "agent", "text": "Let me verify your payment status."},
+      {"sender": "agent", "text": "Your payment has been received. I'm reactivating your service now."},
+      {"sender": "customer", "text": "It’s back! Thank you for your help."}
+    ]
+  },
+  {
+    "conversation_id": 6,
+    "messages": [
+      {"sender": "agent", "text": "Good day! Need any assistance?"},
+      {"sender": "customer", "text": "I can't log into my VoiceUp account."},
+      {"sender": "agent", "text": "Have you tried resetting your password?"},
+      {"sender": "customer", "text": "Yes, but the reset link isn’t working."},
+      {"sender": "agent", "text": "I’ve sent you a new reset link. Please try again now."}
+    ]
+  },
+  {
+    "conversation_id": 7,
+    "messages": [
+      {"sender": "agent", "text": "Hey! How can I assist you today?"},
+      {"sender": "customer", "text": "I’m being charged extra on my bill."},
+      {"sender": "agent", "text": "Let me take a look at the charges."},
+      {"sender": "agent", "text": "It looks like data overage fees were applied."},
+      {"sender": "customer", "text": "Can I get those waived this one time?"},
+      {"sender": "agent", "text": "Done! I’ve waived the charges for this month."}
+    ]
+  },
+  {
+    "conversation_id": 8,
+    "messages": [
+      {"sender": "agent", "text": "Welcome to VoiceUp! What's troubling you today?"},
+      {"sender": "customer", "text": "The connection drops every time I make a video call."},
+      {"sender": "agent", "text": "That sounds frustrating. Let’s check your bandwidth usage."},
+      {"sender": "agent", "text": "There are multiple high-bandwidth devices on your network."},
+      {"sender": "customer", "text": "I’ll disconnect a few. Thanks!"}
+    ]
+  },
+  {
+    "conversation_id": 9,
+    "messages": [
+      {"sender": "agent", "text": "Hello! Do you need help with anything?"},
+      {"sender": "customer", "text": "Your technician was supposed to come today but didn’t show up."},
+      {"sender": "agent", "text": "I’m really sorry. Let me reschedule your appointment immediately."},
+      {"sender": "agent", "text": "We’ve rescheduled for tomorrow morning. Is that okay?"},
+      {"sender": "customer", "text": "Yes, that works. Thank you."}
+    ]
+  },
+  {
+    "conversation_id": 10,
+    "messages": [
+      {"sender": "agent", "text": "Hi! This is Maya from VoiceUp Support. How can I help?"},
+      {"sender": "customer", "text": "Can you help me upgrade my plan?"},
+      {"sender": "agent", "text": "Absolutely! Which plan are you interested in?"},
+      {"sender": "customer", "text": "The Premium 100 Mbps one."},
+      {"sender": "agent", "text": "Done! Your plan has been upgraded and will reflect in 15 minutes."}
+    ]
   }
 ]
